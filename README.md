@@ -140,3 +140,11 @@ GPL-3.0 - See [LICENSE](LICENSE)
 ---
 
 *Wireless security monitoring tool. Legal use only.* 🔐📡
+
+## Who this is for
+
+WiFi Guardian is a defensive wireless-monitoring project for authorized labs studying deauthentication attacks, rogue access points, evil twins, and 802.11 security telemetry. It is not intended for unauthorized network testing.
+
+## Why star this repository
+
+Star this project if wireless security monitoring, Scapy, intrusion detection, or Wi-Fi lab research is relevant to you.
